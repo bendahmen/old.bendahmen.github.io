@@ -45,7 +45,7 @@ sections:
           location: London, UK
           date_start: '2020-09-01'
           date_end: '2021-07-30'
-        - title: BSc Economics & Business Economics
+        - title: BSc Economics and Business Economics
           company: Erasmus University Rotterdam
           company_url: 'eur.nl'
           company_logo: org-eur
